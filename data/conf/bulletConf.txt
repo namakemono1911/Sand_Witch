@@ -1,0 +1,23 @@
+NUM_TEXTURE = 3
+
+TEX_NAME = data/TEXTURE/bullet001.png
+TEX_NAME = data/TEXTURE/bullet002.png
+TEX_NAME = data/TEXTURE/bullet003.png
+
+SET_CONF
+	TYPE = 0
+	SIZE = 50 50 0
+	MOVE = 0.1f
+END_CONF
+
+SET_CONF
+	TYPE = 1
+	SIZE = 50 100 0
+	MOVE = 0.03f
+END_CONF
+
+SET_CONF
+	TYPE = 2
+	SIZE = 50 200 0
+	MOVE = 0.01f
+END_CONF
